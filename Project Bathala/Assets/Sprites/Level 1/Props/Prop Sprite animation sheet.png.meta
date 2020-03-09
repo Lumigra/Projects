@@ -1,0 +1,874 @@
+fileFormatVersion: 2
+guid: bb1d1d517938e3c4697ef87b9dc1eb6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7740896253726604137
+    second: Prop Sprite animation sheet_0
+  - first:
+      213: 738554262642422243
+    second: Prop Sprite animation sheet_1
+  - first:
+      213: -3844675482761518676
+    second: Prop Sprite animation sheet_2
+  - first:
+      213: 2886188341370904218
+    second: Prop Sprite animation sheet_3
+  - first:
+      213: 8877286984943360077
+    second: Prop Sprite animation sheet_4
+  - first:
+      213: -5253383706720971071
+    second: Prop Sprite animation sheet_5
+  - first:
+      213: -6892850452529548307
+    second: Prop Sprite animation sheet_6
+  - first:
+      213: -205332134939348567
+    second: Prop Sprite animation sheet_7
+  - first:
+      213: 1081335722916066177
+    second: Prop Sprite animation sheet_8
+  - first:
+      213: 29399825785071112
+    second: Prop Sprite animation sheet_9
+  - first:
+      213: 6642356363002322761
+    second: Prop Sprite animation sheet_10
+  - first:
+      213: -8363754542220465648
+    second: Prop Sprite animation sheet_11
+  - first:
+      213: 3252457514319050088
+    second: Prop Sprite animation sheet_12
+  - first:
+      213: -7735247616136702078
+    second: Prop Sprite animation sheet_13
+  - first:
+      213: -239053427470766318
+    second: Prop Sprite animation sheet_14
+  - first:
+      213: 3399741870456813972
+    second: Prop Sprite animation sheet_15
+  - first:
+      213: 3389716348582695993
+    second: Prop Sprite animation sheet_16
+  - first:
+      213: 5485257687274862972
+    second: Prop Sprite animation sheet_17
+  - first:
+      213: -4782294843366366371
+    second: Prop Sprite animation sheet_18
+  - first:
+      213: -1433223517450676434
+    second: Prop Sprite animation sheet_19
+  - first:
+      213: 8320932822922394371
+    second: Prop Sprite animation sheet_20
+  - first:
+      213: -634023775528139467
+    second: Prop Sprite animation sheet_21
+  - first:
+      213: 5255313425955991955
+    second: Prop Sprite animation sheet_22
+  - first:
+      213: 1607439801618091304
+    second: Prop Sprite animation sheet_23
+  - first:
+      213: -7179956740190702257
+    second: Prop Sprite animation sheet_24
+  - first:
+      213: 3477725203094568244
+    second: Prop Sprite animation sheet_25
+  - first:
+      213: 3010119528898767287
+    second: Prop Sprite animation sheet_26
+  - first:
+      213: 4083278392074779488
+    second: Prop Sprite animation sheet_27
+  - first:
+      213: 7455601023439862375
+    second: Prop Sprite animation sheet_28
+  - first:
+      213: 5223560641128859180
+    second: Prop Sprite animation sheet_29
+  - first:
+      213: 2535862224143547069
+    second: Prop Sprite animation sheet_30
+  - first:
+      213: -7437174443709869339
+    second: Prop Sprite animation sheet_31
+  - first:
+      213: 5032043380036825788
+    second: Prop Sprite animation sheet_33
+  - first:
+      213: 8028616725148175735
+    second: Prop Sprite animation sheet_35
+  - first:
+      213: 3139049809617490752
+    second: Prop Sprite animation sheet_37
+  - first:
+      213: -9025390232454007481
+    second: Prop Sprite animation sheet_39
+  - first:
+      213: -5165182301725442416
+    second: Prop Sprite animation sheet_41
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bdc143e9e908b49bb745f95b4c01c4
+      internalID: -7740896253726604137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908285ae98b1e3e4db3ccf7eb3958373
+      internalID: 738554262642422243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0473a8422d42924d9575062528cba8d
+      internalID: -3844675482761518676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ba7ac03c389044c88ca58d9bf47fbc
+      internalID: 2886188341370904218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1072
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9535e6b1a78f8034999af2b482cbc9cb
+      internalID: 8877286984943360077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1072
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5405621b6605c55429cf1c1ae077c461
+      internalID: -5253383706720971071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1072
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88a66625d3c1674a944441ac671c3bf
+      internalID: -6892850452529548307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1072
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91e0743d4179544382fd250878e28d3
+      internalID: -205332134939348567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552fd7d8e27d0804ebb3e897b92fda2f
+      internalID: 1081335722916066177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1008
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8cf9b3f869c214f9d8d85060b047ee
+      internalID: 29399825785071112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1008
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1be60853f216843a20c6b7348eafef
+      internalID: 6642356363002322761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1008
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbca006b0fd8ca44bf51330ddf6a6fd
+      internalID: -8363754542220465648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424d433ded907dc48a9fedbc2c0d135b
+      internalID: 3252457514319050088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 944
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39c38555001e7248881108bdd33d241
+      internalID: -7735247616136702078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 944
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f58d49ec591694cbb30f431ec1b6a5
+      internalID: -239053427470766318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 944
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59e08bdcd3434b46ab638883706744d
+      internalID: 3399741870456813972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 944
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec77e36ed98be6c43825fb4d55fe8b4a
+      internalID: 3389716348582695993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 944
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f1bdfc0aeff1243bb59f86d87ffe2a
+      internalID: 5485257687274862972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 944
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c43a446f422d94790cfdd7e93d8ca8
+      internalID: -4782294843366366371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f5d98f63bf44e4eadb274663d4af47
+      internalID: -1433223517450676434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 880
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3756e1d2caad5f4ba764a7523444fa7
+      internalID: -634023775528139467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 880
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfa64693ce72934fbf62e16fe01f1f3
+      internalID: 1607439801618091304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 880
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6f69012e701ac429eccf4b56fa2cbe
+      internalID: 3477725203094568244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e59e20b2bf55347b536244552a494a
+      internalID: 4083278392074779488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 816
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb153d8e32f05142b2060435aadb7cd
+      internalID: 5223560641128859180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 816
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bd5ca0357083e4c8af3dcf2999339b
+      internalID: -7437174443709869339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 816
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380c8507bf4834e4db0bfefe20155954
+      internalID: 5032043380036825788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6cfd5ecfc81fa429c4aa8a416cf90a
+      internalID: 8028616725148175735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 752
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682e22b7b46213645b7545fa1a063952
+      internalID: 3139049809617490752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 752
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcc136ca8f8ef04c890bd3beb13d03d
+      internalID: -9025390232454007481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prop Sprite animation sheet_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 752
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd45a076dd75244e934155ded3847c8
+      internalID: -5165182301725442416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: de3cb3057d5e31d4d9a4686cfdfede8c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

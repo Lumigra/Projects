@@ -1,0 +1,2896 @@
+fileFormatVersion: 2
+guid: 36817e4fd96f4e2428110d4d7800f91d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2552749885145472012
+    second: Special Rooms props 1_0
+  - first:
+      213: 218937695957970294
+    second: Special Rooms props 1_1
+  - first:
+      213: -4293657069034432996
+    second: Special Rooms props 1_2
+  - first:
+      213: 8108920123230634593
+    second: Special Rooms props 1_3
+  - first:
+      213: 7656647034283699792
+    second: Special Rooms props 1_4
+  - first:
+      213: 546663612435545311
+    second: Special Rooms props 1_5
+  - first:
+      213: 7506332924627961631
+    second: Special Rooms props 1_6
+  - first:
+      213: -4484595784701591099
+    second: Special Rooms props 1_7
+  - first:
+      213: -7982138649975015354
+    second: Special Rooms props 1_8
+  - first:
+      213: 2575621201588552325
+    second: Special Rooms props 1_9
+  - first:
+      213: -2864071794414046909
+    second: Special Rooms props 1_10
+  - first:
+      213: -7551914547977556018
+    second: Special Rooms props 1_11
+  - first:
+      213: -6892402041405941049
+    second: Special Rooms props 1_12
+  - first:
+      213: -567263853737334536
+    second: Special Rooms props 1_13
+  - first:
+      213: -7738632495599315728
+    second: Special Rooms props 1_14
+  - first:
+      213: -6983784766601034451
+    second: Special Rooms props 1_15
+  - first:
+      213: -1533200373580352117
+    second: Special Rooms props 1_16
+  - first:
+      213: -4699109670835484356
+    second: Special Rooms props 1_17
+  - first:
+      213: 3908918315088621572
+    second: Special Rooms props 1_18
+  - first:
+      213: 7645395872273928387
+    second: Special Rooms props 1_19
+  - first:
+      213: 1425349181295214732
+    second: Special Rooms props 1_20
+  - first:
+      213: 8238981694292048022
+    second: Special Rooms props 1_21
+  - first:
+      213: -1362325965363860954
+    second: Special Rooms props 1_22
+  - first:
+      213: -1861960797888616171
+    second: Special Rooms props 1_23
+  - first:
+      213: -5455593651059538961
+    second: Special Rooms props 1_24
+  - first:
+      213: 2899233690747008445
+    second: Special Rooms props 1_25
+  - first:
+      213: 16924028347313760
+    second: Special Rooms props 1_26
+  - first:
+      213: 8272594552523715454
+    second: Special Rooms props 1_27
+  - first:
+      213: 7331968501146776616
+    second: Special Rooms props 1_28
+  - first:
+      213: 8973017336211747930
+    second: Special Rooms props 1_29
+  - first:
+      213: -592006450834644192
+    second: Special Rooms props 1_30
+  - first:
+      213: 425858289539929146
+    second: Special Rooms props 1_31
+  - first:
+      213: 5568881764987300371
+    second: Special Rooms props 1_32
+  - first:
+      213: -7005554672942857430
+    second: Special Rooms props 1_33
+  - first:
+      213: 999828018805986704
+    second: Special Rooms props 1_34
+  - first:
+      213: -1819644125983956463
+    second: Special Rooms props 1_35
+  - first:
+      213: -5376125597220949014
+    second: Special Rooms props 1_36
+  - first:
+      213: 378603737500571467
+    second: Special Rooms props 1_37
+  - first:
+      213: 6405326670832449590
+    second: Special Rooms props 1_38
+  - first:
+      213: 996121564390841256
+    second: Special Rooms props 1_39
+  - first:
+      213: 341954954682930615
+    second: Special Rooms props 1_40
+  - first:
+      213: -1604507015345852871
+    second: Special Rooms props 1_41
+  - first:
+      213: 4736438152221648965
+    second: Special Rooms props 1_42
+  - first:
+      213: -4947077917500256376
+    second: Special Rooms props 1_43
+  - first:
+      213: -8078526030082733129
+    second: Special Rooms props 1_44
+  - first:
+      213: -3582838269579832069
+    second: Special Rooms props 1_45
+  - first:
+      213: -864245503538494690
+    second: Special Rooms props 1_46
+  - first:
+      213: -1810008869506992991
+    second: Special Rooms props 1_47
+  - first:
+      213: -7982921845599093251
+    second: Special Rooms props 1_48
+  - first:
+      213: -7188237836903871349
+    second: Special Rooms props 1_49
+  - first:
+      213: -9168535703332326364
+    second: Special Rooms props 1_50
+  - first:
+      213: -9086479234233816250
+    second: Special Rooms props 1_51
+  - first:
+      213: -1185957880388831278
+    second: Special Rooms props 1_52
+  - first:
+      213: -5862521674380242988
+    second: Special Rooms props 1_53
+  - first:
+      213: 7149612948611443139
+    second: Special Rooms props 1_54
+  - first:
+      213: 1756738621829957523
+    second: Special Rooms props 1_55
+  - first:
+      213: 4878552277530598217
+    second: Special Rooms props 1_56
+  - first:
+      213: -4476847385431043044
+    second: Special Rooms props 1_57
+  - first:
+      213: 4717473248294951363
+    second: Special Rooms props 1_58
+  - first:
+      213: 3990213332704581527
+    second: Special Rooms props 1_59
+  - first:
+      213: -1740366728315953769
+    second: Special Rooms props 1_60
+  - first:
+      213: -214590780686685497
+    second: Special Rooms props 1_61
+  - first:
+      213: -1883260179064611507
+    second: Special Rooms props 1_62
+  - first:
+      213: -7686017455683826543
+    second: Special Rooms props 1_63
+  - first:
+      213: -4600280944087830557
+    second: Special Rooms props 1_64
+  - first:
+      213: 7149601127075332082
+    second: Special Rooms props 1_65
+  - first:
+      213: -4427781105654727406
+    second: Special Rooms props 1_66
+  - first:
+      213: 8270078734045732363
+    second: Special Rooms props 1_67
+  - first:
+      213: -6914616262242395115
+    second: Special Rooms props 1_68
+  - first:
+      213: 9111616450417989193
+    second: Special Rooms props 1_69
+  - first:
+      213: -6944854257964438436
+    second: Special Rooms props 1_70
+  - first:
+      213: -1803257785407306988
+    second: Special Rooms props 1_71
+  - first:
+      213: -1764229182412120122
+    second: Special Rooms props 1_72
+  - first:
+      213: -4076451200338193432
+    second: Special Rooms props 1_73
+  - first:
+      213: -7844717862073226321
+    second: Special Rooms props 1_74
+  - first:
+      213: 3673243204417954466
+    second: Special Rooms props 1_75
+  - first:
+      213: 2678835999869859651
+    second: Special Rooms props 1_76
+  - first:
+      213: 7356074211722101323
+    second: Special Rooms props 1_77
+  - first:
+      213: -5084217270707281602
+    second: Special Rooms props 1_78
+  - first:
+      213: -6612969809232495080
+    second: Special Rooms props 1_79
+  - first:
+      213: 5247125096569636948
+    second: Special Rooms props 1_80
+  - first:
+      213: 7016768562447097073
+    second: Special Rooms props 1_81
+  - first:
+      213: -610460940938121539
+    second: Special Rooms props 1_82
+  - first:
+      213: -8839490389518500094
+    second: Special Rooms props 1_83
+  - first:
+      213: -7767521590522456998
+    second: Special Rooms props 1_84
+  - first:
+      213: -3585284846769378844
+    second: Special Rooms props 1_85
+  - first:
+      213: -9127676898721938225
+    second: Special Rooms props 1_86
+  - first:
+      213: -3150194739303746461
+    second: Special Rooms props 1_87
+  - first:
+      213: 3228794632573640667
+    second: Special Rooms props 1_88
+  - first:
+      213: -3642890517735911695
+    second: Special Rooms props 1_89
+  - first:
+      213: 475021128639276634
+    second: Special Rooms props 1_90
+  - first:
+      213: 1233535552091854480
+    second: Special Rooms props 1_91
+  - first:
+      213: -5943574202061972495
+    second: Special Rooms props 1_92
+  - first:
+      213: 6011611374929130944
+    second: Special Rooms props 1_93
+  - first:
+      213: 5216077326525547454
+    second: Special Rooms props 1_94
+  - first:
+      213: -2613833827390671022
+    second: Special Rooms props 1_95
+  - first:
+      213: -3332267223612906634
+    second: Special Rooms props 1_96
+  - first:
+      213: 284766991627224356
+    second: Special Rooms props 1_97
+  - first:
+      213: -8787150616856698542
+    second: Special Rooms props 1_98
+  - first:
+      213: -6396973881305580588
+    second: Special Rooms props 1_99
+  - first:
+      213: -3414549982298249597
+    second: Special Rooms props 1_100
+  - first:
+      213: 6378921403204146444
+    second: Special Rooms props 1_101
+  - first:
+      213: 6975929822460486904
+    second: Special Rooms props 1_102
+  - first:
+      213: 1459657537708328093
+    second: Special Rooms props 1_103
+  - first:
+      213: -7056146912306923555
+    second: Special Rooms props 1_104
+  - first:
+      213: 3891459207692630440
+    second: Special Rooms props 1_105
+  - first:
+      213: 6799740634143196759
+    second: Special Rooms props 1_106
+  - first:
+      213: -8728963630604438106
+    second: Special Rooms props 1_107
+  - first:
+      213: 7928779138607573006
+    second: Special Rooms props 1_108
+  - first:
+      213: -4580526769168754511
+    second: Special Rooms props 1_109
+  - first:
+      213: -667305913633521966
+    second: Special Rooms props 1_110
+  - first:
+      213: -4149745653324702246
+    second: Special Rooms props 1_111
+  - first:
+      213: 2518211364891602770
+    second: Special Rooms props 1_112
+  - first:
+      213: -9083997821548687587
+    second: Special Rooms props 1_113
+  - first:
+      213: -4615893842959753528
+    second: Special Rooms props 1_114
+  - first:
+      213: -6560661465330253521
+    second: Special Rooms props 1_115
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Special Rooms props 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963f9141672cc604884e9df8724c1d94
+      internalID: 2552749885145472012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36407a118c9ba924bb70b55d856608c5
+      internalID: 218937695957970294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f325a65e6022a2b4389efa7599ea8a74
+      internalID: -4293657069034432996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1128cbee4a8821140ab228e9d461b7a8
+      internalID: 8108920123230634593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde36a9344b3b7545840c474abcae61b
+      internalID: 7656647034283699792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9e7edce9154b046a5caca6a13f70a1
+      internalID: 546663612435545311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a26661bcfcfc20449ae1ff09353126e
+      internalID: 7506332924627961631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8633957e82921a4a93094e3f38b8da0
+      internalID: -4484595784701591099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b2a56bd0802294287ef8785194b807
+      internalID: -7982138649975015354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_9
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0d3435f1d4fd3499fcbc2cbd0e2c55
+      internalID: 2575621201588552325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1e86133db1bfd48aa190fa9c3b1c2b
+      internalID: -2864071794414046909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9060820e0e5722947ae27572f0c1f6ff
+      internalID: -7551914547977556018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1129
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2551dd08f5643a04ea8d201f4d8e0426
+      internalID: -6892402041405941049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1065
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cf2fc375244a74ba03e48cc65f2bab
+      internalID: -567263853737334536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1065
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea74b14c306d71a44bc09a9cc657066a
+      internalID: -7738632495599315728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1065
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e479baf90cadd5c4cbd6f675caddeaf2
+      internalID: -6983784766601034451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1065
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908336e20bbf43b4c967fda6e25c8189
+      internalID: -1533200373580352117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1065
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404f472cb85c5d248ab1d7a0adacb4de
+      internalID: -4699109670835484356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1065
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa8e99cb4b196049a88df039ab310ea
+      internalID: 3908918315088621572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1065
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f818c06a0e2e5f49be3eaf0b3c18c77
+      internalID: 7645395872273928387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1065
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52883f9e1ba4ae42a320db2410f05df
+      internalID: 1425349181295214732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1065
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2572041d142de84db0c6dc960310763
+      internalID: 8238981694292048022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1065
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ccbc5bb059f8b4c8b3e640d1880343
+      internalID: -1362325965363860954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_23
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1065
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eadcf2d57fa3e4e8ee5d478f0a316b
+      internalID: -1861960797888616171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1065
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa572a11a02e4c4481814881117227e
+      internalID: -5455593651059538961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_25
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1065
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b946c1e303d81a409668d81fecd3900
+      internalID: 2899233690747008445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_26
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1065
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750a52211f0ed014eb39e4f1cbc7f419
+      internalID: 16924028347313760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1065
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd59f6c7d338cc04da10e1df59552ae2
+      internalID: 8272594552523715454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1065
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af4a9ee83212634480ba0db06f2bc8e
+      internalID: 7331968501146776616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1001
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62373ffbeb7315e4cbf76520a95ba1e2
+      internalID: 8973017336211747930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1001
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45db05cafca993245b574872a9887dfe
+      internalID: -592006450834644192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1001
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b135b7107621d684aa65e45233c9301c
+      internalID: 425858289539929146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1001
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8accfe5a45bf9084db56350f3cda4b40
+      internalID: 5568881764987300371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1001
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f975b10568630a408b3519dc0c18e47
+      internalID: -7005554672942857430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1001
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019eec546dda927498e19d34af67dd26
+      internalID: 999828018805986704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1001
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cafc13ca6dae744b2df8278f7212dd
+      internalID: -1819644125983956463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1001
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad35f463b482e474c9f7dbdf2d8d0b83
+      internalID: -5376125597220949014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1001
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be791fa9dcbd9a4f88be3f2ad479e97
+      internalID: 378603737500571467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_38
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1001
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b14caa8eba2feb479500caeb49d1dcf
+      internalID: 6405326670832449590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_39
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1001
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b11ab9c68ea6946831c8809bca18a7
+      internalID: 996121564390841256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_40
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1001
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ef3833864abeb47a0237d59bdc553e
+      internalID: 341954954682930615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_41
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1001
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1e64aae63727646b31d78f389f73ae
+      internalID: -1604507015345852871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_42
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1001
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f3923c7363f8d4f8030847f8c40d7f
+      internalID: 4736438152221648965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_43
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1001
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69259263cca70242b24e636ede8f630
+      internalID: -4947077917500256376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 937
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d07d05b2cea3943a5a2a3376b826d0
+      internalID: -8078526030082733129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 937
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c051bbafc75e6428ad8a5f6a36171c
+      internalID: -3582838269579832069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 937
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4151454007928458b49f38d04374d1
+      internalID: -864245503538494690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 937
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b38e307da6c0649975f8db8aee36ec
+      internalID: -1810008869506992991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_48
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 937
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d181ece9489244746a9ee1cbe6095737
+      internalID: -7982921845599093251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 937
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313cd67ccf1a91945ae02e0910a0f9d5
+      internalID: -7188237836903871349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_50
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 937
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7449464562c61294ba18e1bd76658c23
+      internalID: -9168535703332326364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_51
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 937
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234ab8b34d5b6b545a336bf1a82e891d
+      internalID: -9086479234233816250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_52
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 937
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741f39f4190accf4ab773ad219e8f396
+      internalID: -1185957880388831278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_53
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 937
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15e7e9de707b954cb7b581474c9e4aa
+      internalID: -5862521674380242988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_54
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 937
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70db046bceb1c8e42b05008ccbf1e6ce
+      internalID: 7149612948611443139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 937
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac4d14b652776c44baf25fb9f7faf79
+      internalID: 1756738621829957523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_56
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 937
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e642ac512a2f6df42b3c6c5b118d7ce4
+      internalID: 4878552277530598217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_57
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 937
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e990a6d0009d7464a98bdffa93da9fcc
+      internalID: -4476847385431043044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b96e2592742b045b5f17c3cc49756c
+      internalID: 4717473248294951363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a82fbd13750f84990de5d2080ef119
+      internalID: 3990213332704581527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ad035358da35e4abae0db4b4733cbf
+      internalID: -1740366728315953769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d0e389b71f2ba40b3f928d25adb9b0
+      internalID: -214590780686685497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1170d9416749174187c33a1909feb8f
+      internalID: -1883260179064611507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec17fb25235cff4f953ce9ff69556cb
+      internalID: -7686017455683826543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09299eece99fe6d479ab9ce34b13f2e4
+      internalID: -4600280944087830557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_65
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d334a662274314c8c2dcff9d0a3599
+      internalID: 7149601127075332082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627f3ba9421d0c3448c6db62b1cc2642
+      internalID: -4427781105654727406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_67
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4197479ff02c05f4d8f78fd0482b4cbb
+      internalID: 8270078734045732363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_68
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c844dcfaad6c4a40a9b6bc3a1de8509
+      internalID: -6914616262242395115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_69
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459e4c9083e1e8842b60601772f74e2d
+      internalID: 9111616450417989193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_70
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cb5b00eebfafd4a912f1384a8f4f64
+      internalID: -6944854257964438436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69ccde648aff964a891f94053b2acd3
+      internalID: -1803257785407306988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_72
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dd534a0b1346440acb6f2b084c4c17
+      internalID: -1764229182412120122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_73
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c088a41b4b31640a067877368dc067
+      internalID: -4076451200338193432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 809
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ca0172168138e40a9e814f549273c0
+      internalID: -7844717862073226321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_75
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 809
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b513698164fa48648a38153435955a94
+      internalID: 3673243204417954466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 809
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66986c73c12f4c54b91c9db957cee46b
+      internalID: 2678835999869859651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 809
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd397678153da94abd22ffef53bfb27
+      internalID: 7356074211722101323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 809
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5869f960cb9dfad45b3ea3766f3013d4
+      internalID: -5084217270707281602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_79
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 809
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4246119dec73614898c89a4b915678d
+      internalID: -6612969809232495080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_80
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 809
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7709661decf8eb49b437ddfa89520bf
+      internalID: 5247125096569636948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_81
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 809
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1adb0becf6b44f499543756d9a9f016
+      internalID: 7016768562447097073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_82
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 809
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1410c861293dc1247aef3362a938f3e7
+      internalID: -610460940938121539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_83
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 809
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692abf756c2651c4389628163db0c200
+      internalID: -8839490389518500094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_84
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 809
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9d143a8a1de9d48a12f2d2ad2e4008
+      internalID: -7767521590522456998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_85
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 809
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b304778e4779cfe4db268072f5a6da0f
+      internalID: -3585284846769378844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_86
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 809
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100507d6ddaa3aa4f82f20a77c83c4dc
+      internalID: -9127676898721938225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_87
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 809
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9813215d34b0f4ea5c8e1b5563d2ef
+      internalID: -3150194739303746461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_88
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 745
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7bc9b03754c904c9ee646541ab3d71
+      internalID: 3228794632573640667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_89
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 745
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1f518c291239241bea2b3a5ea21c06
+      internalID: -3642890517735911695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_90
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 745
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009cf8761f7d62c4eb7a7e6acc2dae92
+      internalID: 475021128639276634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_91
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 745
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4623a62fdd32cb40bf8c42837185aed
+      internalID: 1233535552091854480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_92
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 745
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81a317c00e72cc468728ec81fcc15bd
+      internalID: -5943574202061972495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_93
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 745
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd69307eed691a4da8e41a896145878
+      internalID: 6011611374929130944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_94
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 681
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2948858bc5c02dd4b8407d144d045f6e
+      internalID: 5216077326525547454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 681
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f24288c6da7c547be5281965f99785
+      internalID: -2613833827390671022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_96
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 681
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2228a00ae056da4bb5d96fbc4cad476
+      internalID: -3332267223612906634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_97
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 681
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2811ae9674a5f7429b1e0afacdd243b
+      internalID: 284766991627224356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_98
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 681
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e002cab06d96440a32e2cff9bddd1f
+      internalID: -8787150616856698542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_99
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 681
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecdbe0259196084290edbab2bafa0cf
+      internalID: -6396973881305580588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_100
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 681
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9b6ae376a62eb4e9bd18530e4de475
+      internalID: -3414549982298249597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_101
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 681
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f725db17350cf46b726fb987b190da
+      internalID: 6378921403204146444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_102
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 617
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e9abe18e34386478d9a00a5599bb71
+      internalID: 6975929822460486904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_103
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 617
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d6c308a6097a443894ff49245dcbd6
+      internalID: 1459657537708328093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_104
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 617
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8559f41ad1aeac3468a5450b7c459fdb
+      internalID: -7056146912306923555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_105
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 617
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99785cd4a4c504b4c8c7b981976241c1
+      internalID: 3891459207692630440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_106
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 617
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78886f07a200ffe4ea7e50726b63455c
+      internalID: 6799740634143196759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_107
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 617
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e996cd52150b304f883b4ea363f5d48
+      internalID: -8728963630604438106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_108
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 617
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0491f822f26b2459062a9db9a4367d
+      internalID: 7928779138607573006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_109
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 617
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee14ab9bffb1bf4eacad4fa1978c38e
+      internalID: -4580526769168754511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_110
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 553
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8147f36eb5193f74c85688762d761c18
+      internalID: -667305913633521966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_111
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 553
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24db1157dae0eb45b6112eff10c53ef
+      internalID: -4149745653324702246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_112
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 553
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891809382b278094e991ae7d8e8b1df6
+      internalID: 2518211364891602770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_113
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 553
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd7c869041e5ca45b1aba6126f09ff5
+      internalID: -9083997821548687587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_114
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 553
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3b6fa7d29c96b4188606faa2c978fd
+      internalID: -4615893842959753528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Special Rooms props 1_115
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 553
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3be62174a4b354da43444fbbade3e9
+      internalID: -6560661465330253521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2536cdcff3035334d8d084594c5a48a1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

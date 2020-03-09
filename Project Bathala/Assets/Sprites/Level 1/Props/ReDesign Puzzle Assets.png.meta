@@ -1,0 +1,6928 @@
+fileFormatVersion: 2
+guid: e56e17ebdbe8c1c41af223c3b47fd183
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4008933662450591836
+    second: ReDesign Puzzle Assets_0
+  - first:
+      213: -40594610848252023
+    second: ReDesign Puzzle Assets_1
+  - first:
+      213: -5246289063261637880
+    second: ReDesign Puzzle Assets_2
+  - first:
+      213: 5257096576264831216
+    second: ReDesign Puzzle Assets_3
+  - first:
+      213: 421475770665512357
+    second: ReDesign Puzzle Assets_4
+  - first:
+      213: 1115759244932576778
+    second: ReDesign Puzzle Assets_5
+  - first:
+      213: 4425800571347914269
+    second: ReDesign Puzzle Assets_6
+  - first:
+      213: -1008883337742373036
+    second: ReDesign Puzzle Assets_7
+  - first:
+      213: -923372680654926249
+    second: ReDesign Puzzle Assets_8
+  - first:
+      213: 622529693848768783
+    second: ReDesign Puzzle Assets_9
+  - first:
+      213: -8361194963443624186
+    second: ReDesign Puzzle Assets_10
+  - first:
+      213: 4032750294160505093
+    second: ReDesign Puzzle Assets_11
+  - first:
+      213: -5838581317391756912
+    second: ReDesign Puzzle Assets_12
+  - first:
+      213: -4533638515343680801
+    second: ReDesign Puzzle Assets_13
+  - first:
+      213: 732297534872791349
+    second: ReDesign Puzzle Assets_14
+  - first:
+      213: 7659580286932093736
+    second: ReDesign Puzzle Assets_15
+  - first:
+      213: -2237832986336775675
+    second: ReDesign Puzzle Assets_16
+  - first:
+      213: 3553545243938210856
+    second: ReDesign Puzzle Assets_17
+  - first:
+      213: -5682218864704893203
+    second: ReDesign Puzzle Assets_18
+  - first:
+      213: -3732419195051685419
+    second: ReDesign Puzzle Assets_19
+  - first:
+      213: -1392060598238727678
+    second: ReDesign Puzzle Assets_20
+  - first:
+      213: 2954376775230317868
+    second: ReDesign Puzzle Assets_21
+  - first:
+      213: -3269338578018167480
+    second: ReDesign Puzzle Assets_22
+  - first:
+      213: -6015425682404566928
+    second: ReDesign Puzzle Assets_23
+  - first:
+      213: 4900533999585180642
+    second: ReDesign Puzzle Assets_24
+  - first:
+      213: -6630114019445909937
+    second: ReDesign Puzzle Assets_25
+  - first:
+      213: 2825609884544258308
+    second: ReDesign Puzzle Assets_26
+  - first:
+      213: -6427347655170061493
+    second: ReDesign Puzzle Assets_27
+  - first:
+      213: -2488492796704431005
+    second: ReDesign Puzzle Assets_28
+  - first:
+      213: -1227765057714118883
+    second: ReDesign Puzzle Assets_29
+  - first:
+      213: -2595422211898155248
+    second: ReDesign Puzzle Assets_30
+  - first:
+      213: -297454580567086226
+    second: ReDesign Puzzle Assets_31
+  - first:
+      213: 3799487131514947644
+    second: ReDesign Puzzle Assets_32
+  - first:
+      213: 6376769283839311899
+    second: ReDesign Puzzle Assets_33
+  - first:
+      213: 2344093015469039695
+    second: ReDesign Puzzle Assets_34
+  - first:
+      213: 4116863937577942353
+    second: ReDesign Puzzle Assets_35
+  - first:
+      213: 990468880532655851
+    second: ReDesign Puzzle Assets_36
+  - first:
+      213: -4461017078806140211
+    second: ReDesign Puzzle Assets_37
+  - first:
+      213: -6005452649593897975
+    second: ReDesign Puzzle Assets_38
+  - first:
+      213: -3688106798676186655
+    second: ReDesign Puzzle Assets_39
+  - first:
+      213: -2510174318581093365
+    second: ReDesign Puzzle Assets_40
+  - first:
+      213: -1556869606941532745
+    second: ReDesign Puzzle Assets_41
+  - first:
+      213: 832820706079853743
+    second: ReDesign Puzzle Assets_42
+  - first:
+      213: -5986498509292874694
+    second: ReDesign Puzzle Assets_43
+  - first:
+      213: 1616998344460190674
+    second: ReDesign Puzzle Assets_44
+  - first:
+      213: 1308687933755537176
+    second: ReDesign Puzzle Assets_45
+  - first:
+      213: 2340071876831403551
+    second: ReDesign Puzzle Assets_46
+  - first:
+      213: -5093178475383346456
+    second: ReDesign Puzzle Assets_47
+  - first:
+      213: -997327657763545710
+    second: ReDesign Puzzle Assets_48
+  - first:
+      213: -5313486458416798789
+    second: ReDesign Puzzle Assets_49
+  - first:
+      213: 1747165940327796018
+    second: ReDesign Puzzle Assets_50
+  - first:
+      213: -6111824576284765075
+    second: ReDesign Puzzle Assets_51
+  - first:
+      213: -3040148971491257416
+    second: ReDesign Puzzle Assets_52
+  - first:
+      213: 1405199201593498243
+    second: ReDesign Puzzle Assets_53
+  - first:
+      213: 1475830524885791314
+    second: ReDesign Puzzle Assets_54
+  - first:
+      213: -5834068639698415201
+    second: ReDesign Puzzle Assets_55
+  - first:
+      213: 5531032041691831354
+    second: ReDesign Puzzle Assets_56
+  - first:
+      213: -1683557356272337800
+    second: ReDesign Puzzle Assets_57
+  - first:
+      213: 814737350535761980
+    second: ReDesign Puzzle Assets_58
+  - first:
+      213: -3556247746052992230
+    second: ReDesign Puzzle Assets_59
+  - first:
+      213: 383306823709567434
+    second: ReDesign Puzzle Assets_60
+  - first:
+      213: 5144251818168279373
+    second: ReDesign Puzzle Assets_61
+  - first:
+      213: 4873376030611053798
+    second: ReDesign Puzzle Assets_62
+  - first:
+      213: 2178985664546518414
+    second: ReDesign Puzzle Assets_63
+  - first:
+      213: 3078971173333954383
+    second: ReDesign Puzzle Assets_64
+  - first:
+      213: 3026409051019984054
+    second: ReDesign Puzzle Assets_65
+  - first:
+      213: -5215589433725079383
+    second: ReDesign Puzzle Assets_66
+  - first:
+      213: 2520470946797468999
+    second: ReDesign Puzzle Assets_67
+  - first:
+      213: 4961134087466971465
+    second: ReDesign Puzzle Assets_68
+  - first:
+      213: -7933379034080628253
+    second: ReDesign Puzzle Assets_69
+  - first:
+      213: 4737059402787362349
+    second: ReDesign Puzzle Assets_70
+  - first:
+      213: -1680509241871469134
+    second: ReDesign Puzzle Assets_71
+  - first:
+      213: -786251374408082390
+    second: ReDesign Puzzle Assets_72
+  - first:
+      213: -8211546337363811445
+    second: ReDesign Puzzle Assets_73
+  - first:
+      213: 6695579814906588571
+    second: ReDesign Puzzle Assets_74
+  - first:
+      213: 374161897504690827
+    second: ReDesign Puzzle Assets_75
+  - first:
+      213: -7763566430114490655
+    second: ReDesign Puzzle Assets_76
+  - first:
+      213: 2037352379696473359
+    second: ReDesign Puzzle Assets_77
+  - first:
+      213: 3017094704782802796
+    second: ReDesign Puzzle Assets_78
+  - first:
+      213: -3279290134131502769
+    second: ReDesign Puzzle Assets_79
+  - first:
+      213: 4485161519752175484
+    second: ReDesign Puzzle Assets_80
+  - first:
+      213: -2638235676624262844
+    second: ReDesign Puzzle Assets_81
+  - first:
+      213: -2318221044105967332
+    second: ReDesign Puzzle Assets_82
+  - first:
+      213: 1001166400287207457
+    second: ReDesign Puzzle Assets_83
+  - first:
+      213: 2559609122104916106
+    second: ReDesign Puzzle Assets_84
+  - first:
+      213: -5443734909398920824
+    second: ReDesign Puzzle Assets_85
+  - first:
+      213: 850817243435778248
+    second: ReDesign Puzzle Assets_86
+  - first:
+      213: 571808977727751994
+    second: ReDesign Puzzle Assets_87
+  - first:
+      213: -8886726859684134914
+    second: ReDesign Puzzle Assets_88
+  - first:
+      213: 1872850980555164394
+    second: ReDesign Puzzle Assets_89
+  - first:
+      213: 7945690971098070478
+    second: ReDesign Puzzle Assets_90
+  - first:
+      213: -1577120191178359898
+    second: ReDesign Puzzle Assets_91
+  - first:
+      213: -8146920359216790220
+    second: ReDesign Puzzle Assets_92
+  - first:
+      213: -3932042428055348096
+    second: ReDesign Puzzle Assets_93
+  - first:
+      213: 8180860509110681280
+    second: ReDesign Puzzle Assets_94
+  - first:
+      213: -6045673471522332551
+    second: ReDesign Puzzle Assets_95
+  - first:
+      213: 3776405272722811440
+    second: ReDesign Puzzle Assets_96
+  - first:
+      213: -6747749699339805270
+    second: ReDesign Puzzle Assets_97
+  - first:
+      213: -8746334058970687529
+    second: ReDesign Puzzle Assets_98
+  - first:
+      213: 8382708648550733315
+    second: ReDesign Puzzle Assets_99
+  - first:
+      213: -2110007299536161599
+    second: ReDesign Puzzle Assets_100
+  - first:
+      213: -9186118190544887038
+    second: ReDesign Puzzle Assets_101
+  - first:
+      213: -586052182077042664
+    second: ReDesign Puzzle Assets_102
+  - first:
+      213: 6961326607029614529
+    second: ReDesign Puzzle Assets_103
+  - first:
+      213: 2999856755797404141
+    second: ReDesign Puzzle Assets_104
+  - first:
+      213: -7553528686136490851
+    second: ReDesign Puzzle Assets_105
+  - first:
+      213: 5272865181351893301
+    second: ReDesign Puzzle Assets_106
+  - first:
+      213: -4645154754531672165
+    second: ReDesign Puzzle Assets_107
+  - first:
+      213: 6218098303316901641
+    second: ReDesign Puzzle Assets_108
+  - first:
+      213: 2564428429295804392
+    second: ReDesign Puzzle Assets_109
+  - first:
+      213: 8990859680616015455
+    second: ReDesign Puzzle Assets_110
+  - first:
+      213: -1655129146291542669
+    second: ReDesign Puzzle Assets_111
+  - first:
+      213: -6893087934902772053
+    second: ReDesign Puzzle Assets_112
+  - first:
+      213: -7932305886501207254
+    second: ReDesign Puzzle Assets_113
+  - first:
+      213: 3163784499838614452
+    second: ReDesign Puzzle Assets_114
+  - first:
+      213: 6453249637185602056
+    second: ReDesign Puzzle Assets_115
+  - first:
+      213: -8912942616507004518
+    second: ReDesign Puzzle Assets_116
+  - first:
+      213: -8304009220962893458
+    second: ReDesign Puzzle Assets_117
+  - first:
+      213: 1375133560870689077
+    second: ReDesign Puzzle Assets_118
+  - first:
+      213: 725619119443449485
+    second: ReDesign Puzzle Assets_119
+  - first:
+      213: -1653623929867030102
+    second: ReDesign Puzzle Assets_120
+  - first:
+      213: -1507861910936687006
+    second: ReDesign Puzzle Assets_121
+  - first:
+      213: 3985845499222161960
+    second: ReDesign Puzzle Assets_122
+  - first:
+      213: 5316004596214827534
+    second: ReDesign Puzzle Assets_123
+  - first:
+      213: -6367674168708501699
+    second: ReDesign Puzzle Assets_124
+  - first:
+      213: -9075858749884500327
+    second: ReDesign Puzzle Assets_125
+  - first:
+      213: 5587773573672092283
+    second: ReDesign Puzzle Assets_126
+  - first:
+      213: -2286552776475552504
+    second: ReDesign Puzzle Assets_127
+  - first:
+      213: -5382862327799785091
+    second: ReDesign Puzzle Assets_128
+  - first:
+      213: -6017815236266040428
+    second: ReDesign Puzzle Assets_129
+  - first:
+      213: 1606053134761317443
+    second: ReDesign Puzzle Assets_130
+  - first:
+      213: 2008943823048493415
+    second: ReDesign Puzzle Assets_131
+  - first:
+      213: 1816665660293984753
+    second: ReDesign Puzzle Assets_132
+  - first:
+      213: -2689629894373949517
+    second: ReDesign Puzzle Assets_133
+  - first:
+      213: -5730825747530057018
+    second: ReDesign Puzzle Assets_134
+  - first:
+      213: 4030620830663007472
+    second: ReDesign Puzzle Assets_135
+  - first:
+      213: 3218908756572629770
+    second: ReDesign Puzzle Assets_136
+  - first:
+      213: -4222624854198661917
+    second: ReDesign Puzzle Assets_137
+  - first:
+      213: 2201006056807113043
+    second: ReDesign Puzzle Assets_138
+  - first:
+      213: -3078085671395819414
+    second: ReDesign Puzzle Assets_139
+  - first:
+      213: -1217532611058642965
+    second: ReDesign Puzzle Assets_140
+  - first:
+      213: -8319133838851982635
+    second: ReDesign Puzzle Assets_141
+  - first:
+      213: 3331872134570401087
+    second: ReDesign Puzzle Assets_142
+  - first:
+      213: -2855946271444163459
+    second: ReDesign Puzzle Assets_143
+  - first:
+      213: 1535152645609712009
+    second: ReDesign Puzzle Assets_144
+  - first:
+      213: 7091909434202095779
+    second: ReDesign Puzzle Assets_145
+  - first:
+      213: 6209131837723400237
+    second: ReDesign Puzzle Assets_146
+  - first:
+      213: 7388548095016654004
+    second: ReDesign Puzzle Assets_147
+  - first:
+      213: -8244511305794024225
+    second: ReDesign Puzzle Assets_148
+  - first:
+      213: 1365845664184594725
+    second: ReDesign Puzzle Assets_149
+  - first:
+      213: 3482319625381762040
+    second: ReDesign Puzzle Assets_150
+  - first:
+      213: 2369008943939908514
+    second: ReDesign Puzzle Assets_151
+  - first:
+      213: 8963844034720349199
+    second: ReDesign Puzzle Assets_152
+  - first:
+      213: -7616778574900653199
+    second: ReDesign Puzzle Assets_153
+  - first:
+      213: -7369594755384225369
+    second: ReDesign Puzzle Assets_154
+  - first:
+      213: -678685549599391121
+    second: ReDesign Puzzle Assets_155
+  - first:
+      213: -8823293836574190772
+    second: ReDesign Puzzle Assets_156
+  - first:
+      213: -7071030381111336341
+    second: ReDesign Puzzle Assets_157
+  - first:
+      213: -497640725560753353
+    second: ReDesign Puzzle Assets_158
+  - first:
+      213: -5681694732479630870
+    second: ReDesign Puzzle Assets_159
+  - first:
+      213: -5239424113120943050
+    second: ReDesign Puzzle Assets_160
+  - first:
+      213: -8584004123695409518
+    second: ReDesign Puzzle Assets_161
+  - first:
+      213: -8806059680952768045
+    second: ReDesign Puzzle Assets_162
+  - first:
+      213: -738337280954064258
+    second: ReDesign Puzzle Assets_163
+  - first:
+      213: 7237216080099626737
+    second: ReDesign Puzzle Assets_164
+  - first:
+      213: 8930813232141083467
+    second: ReDesign Puzzle Assets_165
+  - first:
+      213: -6868738820911279996
+    second: ReDesign Puzzle Assets_166
+  - first:
+      213: 646115500523151024
+    second: ReDesign Puzzle Assets_167
+  - first:
+      213: -457858429939329370
+    second: ReDesign Puzzle Assets_168
+  - first:
+      213: -4546168104807662858
+    second: ReDesign Puzzle Assets_169
+  - first:
+      213: -8556079028199234730
+    second: ReDesign Puzzle Assets_170
+  - first:
+      213: -5538378104605795642
+    second: ReDesign Puzzle Assets_171
+  - first:
+      213: 1278303284697672081
+    second: ReDesign Puzzle Assets_172
+  - first:
+      213: -6067095518712396857
+    second: ReDesign Puzzle Assets_173
+  - first:
+      213: -2772275860192187681
+    second: ReDesign Puzzle Assets_174
+  - first:
+      213: -5170765912395075259
+    second: ReDesign Puzzle Assets_175
+  - first:
+      213: -590212940589284929
+    second: ReDesign Puzzle Assets_176
+  - first:
+      213: 7829196970545302342
+    second: ReDesign Puzzle Assets_177
+  - first:
+      213: 1036457269528041211
+    second: ReDesign Puzzle Assets_178
+  - first:
+      213: -7049972653851599990
+    second: ReDesign Puzzle Assets_179
+  - first:
+      213: -4410711651322382057
+    second: ReDesign Puzzle Assets_180
+  - first:
+      213: -1305218718871544001
+    second: ReDesign Puzzle Assets_181
+  - first:
+      213: -7299428928724159817
+    second: ReDesign Puzzle Assets_182
+  - first:
+      213: -6267270076702117242
+    second: ReDesign Puzzle Assets_183
+  - first:
+      213: 5961487960169554680
+    second: ReDesign Puzzle Assets_184
+  - first:
+      213: 8244098618765100850
+    second: ReDesign Puzzle Assets_185
+  - first:
+      213: -164003905056391489
+    second: ReDesign Puzzle Assets_186
+  - first:
+      213: 8481707691486543529
+    second: ReDesign Puzzle Assets_187
+  - first:
+      213: 2338415934208937837
+    second: ReDesign Puzzle Assets_188
+  - first:
+      213: -6331200609391442911
+    second: ReDesign Puzzle Assets_189
+  - first:
+      213: -4465040525710830626
+    second: ReDesign Puzzle Assets_190
+  - first:
+      213: -2239255742521182708
+    second: ReDesign Puzzle Assets_191
+  - first:
+      213: 3105602335185213562
+    second: ReDesign Puzzle Assets_192
+  - first:
+      213: -3458047589379702464
+    second: ReDesign Puzzle Assets_193
+  - first:
+      213: -3425381970557146160
+    second: ReDesign Puzzle Assets_194
+  - first:
+      213: -3783510972392151201
+    second: ReDesign Puzzle Assets_195
+  - first:
+      213: -7891222434588444021
+    second: ReDesign Puzzle Assets_196
+  - first:
+      213: 3043316407805218738
+    second: ReDesign Puzzle Assets_197
+  - first:
+      213: 828002068063363427
+    second: ReDesign Puzzle Assets_198
+  - first:
+      213: -203036347149986266
+    second: ReDesign Puzzle Assets_199
+  - first:
+      213: -6994090277803396294
+    second: ReDesign Puzzle Assets_200
+  - first:
+      213: -250513467508770927
+    second: ReDesign Puzzle Assets_201
+  - first:
+      213: 1181303537123662310
+    second: ReDesign Puzzle Assets_202
+  - first:
+      213: -7983693229282034859
+    second: ReDesign Puzzle Assets_203
+  - first:
+      213: 7376316045464754913
+    second: ReDesign Puzzle Assets_204
+  - first:
+      213: -5330792980793003438
+    second: ReDesign Puzzle Assets_205
+  - first:
+      213: 695103751747789731
+    second: ReDesign Puzzle Assets_206
+  - first:
+      213: 1273955791533557404
+    second: ReDesign Puzzle Assets_207
+  - first:
+      213: -3730981501734459302
+    second: ReDesign Puzzle Assets_208
+  - first:
+      213: -6328277519736046317
+    second: ReDesign Puzzle Assets_209
+  - first:
+      213: -4104650863683554113
+    second: ReDesign Puzzle Assets_210
+  - first:
+      213: -2428466079827128452
+    second: ReDesign Puzzle Assets_211
+  - first:
+      213: -4402448481660454282
+    second: ReDesign Puzzle Assets_212
+  - first:
+      213: -2821031113466023559
+    second: ReDesign Puzzle Assets_213
+  - first:
+      213: 6947396974238231457
+    second: ReDesign Puzzle Assets_214
+  - first:
+      213: 4950950631479640430
+    second: ReDesign Puzzle Assets_215
+  - first:
+      213: 4551440719019138735
+    second: ReDesign Puzzle Assets_216
+  - first:
+      213: -1713713582123731037
+    second: ReDesign Puzzle Assets_217
+  - first:
+      213: 6698630475843886154
+    second: ReDesign Puzzle Assets_218
+  - first:
+      213: 6173005531452215910
+    second: ReDesign Puzzle Assets_219
+  - first:
+      213: -8602698839659347739
+    second: ReDesign Puzzle Assets_220
+  - first:
+      213: -162836492927747739
+    second: ReDesign Puzzle Assets_221
+  - first:
+      213: 6901239836350876297
+    second: ReDesign Puzzle Assets_222
+  - first:
+      213: 7953885194390915762
+    second: ReDesign Puzzle Assets_223
+  - first:
+      213: -8632580734995933566
+    second: ReDesign Puzzle Assets_224
+  - first:
+      213: -3725653426157749503
+    second: ReDesign Puzzle Assets_225
+  - first:
+      213: 5166752677222890242
+    second: ReDesign Puzzle Assets_226
+  - first:
+      213: 5878827126914022285
+    second: ReDesign Puzzle Assets_227
+  - first:
+      213: -6445850468623414220
+    second: ReDesign Puzzle Assets_228
+  - first:
+      213: 8369182639842786888
+    second: ReDesign Puzzle Assets_229
+  - first:
+      213: 2187381464594459037
+    second: ReDesign Puzzle Assets_230
+  - first:
+      213: -2011684266960726380
+    second: ReDesign Puzzle Assets_231
+  - first:
+      213: -5889631542434257335
+    second: ReDesign Puzzle Assets_232
+  - first:
+      213: -4090123839748929669
+    second: ReDesign Puzzle Assets_233
+  - first:
+      213: -630451675314386784
+    second: ReDesign Puzzle Assets_234
+  - first:
+      213: -5345956075662706145
+    second: ReDesign Puzzle Assets_235
+  - first:
+      213: -8387939727152098052
+    second: ReDesign Puzzle Assets_236
+  - first:
+      213: 4985254270412274738
+    second: ReDesign Puzzle Assets_237
+  - first:
+      213: -4205063230153363320
+    second: ReDesign Puzzle Assets_238
+  - first:
+      213: -3149964059931616054
+    second: ReDesign Puzzle Assets_239
+  - first:
+      213: -3761259219615517862
+    second: ReDesign Puzzle Assets_240
+  - first:
+      213: 1092740192413553305
+    second: ReDesign Puzzle Assets_241
+  - first:
+      213: -7873508067173854447
+    second: ReDesign Puzzle Assets_242
+  - first:
+      213: 339832265412437784
+    second: ReDesign Puzzle Assets_243
+  - first:
+      213: -492854664563271587
+    second: ReDesign Puzzle Assets_244
+  - first:
+      213: 3639168941746125796
+    second: ReDesign Puzzle Assets_245
+  - first:
+      213: -1540729190429744717
+    second: ReDesign Puzzle Assets_246
+  - first:
+      213: -6693845962113801096
+    second: ReDesign Puzzle Assets_247
+  - first:
+      213: 736710391110155669
+    second: ReDesign Puzzle Assets_248
+  - first:
+      213: 2081995020852417700
+    second: ReDesign Puzzle Assets_249
+  - first:
+      213: -1274759192835438257
+    second: ReDesign Puzzle Assets_250
+  - first:
+      213: 4931910501062075458
+    second: ReDesign Puzzle Assets_251
+  - first:
+      213: -1770284686251509963
+    second: ReDesign Puzzle Assets_252
+  - first:
+      213: -6293357892449060599
+    second: ReDesign Puzzle Assets_253
+  - first:
+      213: -4184259200504208405
+    second: ReDesign Puzzle Assets_254
+  - first:
+      213: 449783642999820226
+    second: ReDesign Puzzle Assets_255
+  - first:
+      213: 8983339295856515591
+    second: ReDesign Puzzle Assets_256
+  - first:
+      213: -6012571993678509142
+    second: ReDesign Puzzle Assets_257
+  - first:
+      213: -1305072111147680756
+    second: ReDesign Puzzle Assets_258
+  - first:
+      213: -7388073362982360572
+    second: ReDesign Puzzle Assets_259
+  - first:
+      213: -2399269728672618544
+    second: ReDesign Puzzle Assets_260
+  - first:
+      213: 2937750516763652475
+    second: ReDesign Puzzle Assets_261
+  - first:
+      213: -6808339775048040111
+    second: ReDesign Puzzle Assets_262
+  - first:
+      213: 8620692881527034465
+    second: ReDesign Puzzle Assets_263
+  - first:
+      213: -6753329827275734554
+    second: ReDesign Puzzle Assets_264
+  - first:
+      213: -4032736889654231730
+    second: ReDesign Puzzle Assets_265
+  - first:
+      213: 3058137257442530921
+    second: ReDesign Puzzle Assets_266
+  - first:
+      213: 4585734407178330740
+    second: ReDesign Puzzle Assets_267
+  - first:
+      213: 6454300722300588573
+    second: ReDesign Puzzle Assets_268
+  - first:
+      213: 1993575184391430812
+    second: ReDesign Puzzle Assets_269
+  - first:
+      213: 1411914868285749857
+    second: ReDesign Puzzle Assets_270
+  - first:
+      213: -5425130061169165124
+    second: ReDesign Puzzle Assets_271
+  - first:
+      213: -5021176160747110640
+    second: ReDesign Puzzle Assets_272
+  - first:
+      213: -3181475136512473505
+    second: ReDesign Puzzle Assets_273
+  - first:
+      213: -619319627648468069
+    second: ReDesign Puzzle Assets_274
+  - first:
+      213: 11180123247246019
+    second: ReDesign Puzzle Assets_275
+  - first:
+      213: -5933679358407288877
+    second: ReDesign Puzzle Assets_276
+  - first:
+      213: -2238236560962510013
+    second: ReDesign Puzzle Assets_277
+  - first:
+      213: -5313149816144453208
+    second: ReDesign Puzzle Assets_278
+  - first:
+      213: 8772847401753304114
+    second: ReDesign Puzzle Assets_279
+  - first:
+      213: -8191459518163635217
+    second: ReDesign Puzzle Assets_280
+  - first:
+      213: 3682784173543951776
+    second: ReDesign Puzzle Assets_281
+  - first:
+      213: -7192682107882122477
+    second: ReDesign Puzzle Assets_282
+  - first:
+      213: -2434925351755331987
+    second: ReDesign Puzzle Assets_283
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6db8bc0f5ef294686ec1c850d2d1a7
+      internalID: -4008933662450591836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da61638858346c843af72b1655d72104
+      internalID: -40594610848252023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ee3c824469cc34fad3956d8c4c1350
+      internalID: -5246289063261637880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b813f31342f401d45a0f84467c6429d8
+      internalID: 5257096576264831216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc8e3b00e9c78b43a3841b5fcfe5ce3
+      internalID: 421475770665512357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeb2c9400c316441818ee60f73b36df
+      internalID: 1115759244932576778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f867b5a446ecefb49bfd91e1a7a338b6
+      internalID: 4425800571347914269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f0a9d6ebf74c844bee07713b375fe5
+      internalID: -1008883337742373036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9f33b467a3f244aa58debc791d0c67
+      internalID: -923372680654926249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03788ae4963f044ea91d2c58b9d1561
+      internalID: 622529693848768783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c5764aa7bcee24e82e911d5ec543ea
+      internalID: -8361194963443624186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8318cc16385e04d93bdd54901f8bbf
+      internalID: 4032750294160505093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2213ebadee7579a418bb28c5128a2ce9
+      internalID: -5838581317391756912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a33eaac0161ef409ed2a05558a9a19
+      internalID: -4533638515343680801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4fdfb0ca0466749aa6753534bc3de1
+      internalID: 732297534872791349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_15
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5262e69e38bc741ae37c5c4c8964f5
+      internalID: 7659580286932093736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_16
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef13b04d6c218dd45b57d57fb2d46d5f
+      internalID: -2237832986336775675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_17
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2de60f504110b47a8414aac8f99ef3
+      internalID: 3553545243938210856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_18
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba876fe849780584bad477450513433b
+      internalID: -5682218864704893203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_19
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e396a5ed58e23d4484e8215d1915dd3
+      internalID: -3732419195051685419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_20
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3fceb649717314b9394413d86e84b8
+      internalID: -1392060598238727678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_21
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9d3b27f5eabf249948de7b3f6e59bb
+      internalID: 2954376775230317868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d944855e6c41544b0051b8c12a36fb
+      internalID: -3269338578018167480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_23
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1038
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fa6d1c1c7d34c48b9537c2a7cbc4d0
+      internalID: -6015425682404566928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c713cbeb6f3b44e947d5f2e63d94f4
+      internalID: 4900533999585180642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdc2506a8e790a419685171d7b45a4f
+      internalID: -6630114019445909937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5926b1c3b1e67b0479e086cf8c9be7ba
+      internalID: 2825609884544258308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0842da5cdaefe4597f08af6a7a4c59
+      internalID: -6427347655170061493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26acd6112417524f8ba2147040b16c8
+      internalID: -2488492796704431005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff0dbc235d4100468d8dee9b79c10e3
+      internalID: -1227765057714118883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7f7b7da84842e44b40bfb45ec6e30d
+      internalID: -2595422211898155248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b260e5065125e48998079519d90170
+      internalID: -297454580567086226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4787a16f69c798b429ebdc582921bd66
+      internalID: 3799487131514947644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232d25bffab469b449610632cb292522
+      internalID: 6376769283839311899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cd6862d9b440248b4eaa63582ead6b
+      internalID: 2344093015469039695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_35
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e597a6cbdc2e040adcbff0fbb52956
+      internalID: 4116863937577942353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b499af71f45c54ab111ba549bb4e44
+      internalID: 990468880532655851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_37
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400aed1404097f746a3d49197317d6f3
+      internalID: -4461017078806140211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_38
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94bc187b8ca56a42b13b038c44dd288
+      internalID: -6005452649593897975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489fec866fdb8d844a76a9b115ca3d89
+      internalID: -3688106798676186655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_40
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d460c6c0316f543aa58f344ffd8b85
+      internalID: -2510174318581093365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_41
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fd9b54b03428b4a91dd61077a739ee
+      internalID: -1556869606941532745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_42
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a505b90e274cc194386bdfa0f5559d1c
+      internalID: 832820706079853743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_43
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0c5693f3b64da4795746fdd03e90db
+      internalID: -5986498509292874694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_44
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3222ed4a840ef488aad442149104d2
+      internalID: 1616998344460190674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_45
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d3f65f1983ea34e8cd33af24b6d72f
+      internalID: 1308687933755537176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_46
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12421277e93c9bb4a9685a761386c195
+      internalID: 2340071876831403551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_47
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52787b99366ac7446be30a72d0dd760a
+      internalID: -5093178475383346456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_48
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88f12fd31defc34fb28caab70abbfff
+      internalID: -997327657763545710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_49
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acdc1bb44740754386d43378a9594a3
+      internalID: -5313486458416798789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_50
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc665fcf8b98182428e3eb9ce03f44d3
+      internalID: 1747165940327796018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_51
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886b7767bb071b044912a8694a33689b
+      internalID: -6111824576284765075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_52
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 974
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d780aed7c962443848865b29b78e76
+      internalID: -3040148971491257416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fa4216fef12e744adb47f93afcde00
+      internalID: 1405199201593498243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a7b4b97093ee747a1befc8285d225b
+      internalID: 1475830524885791314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4295f981cdef074d97e10ec042b0561
+      internalID: -5834068639698415201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_56
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82924dea3d4f5ba43879d7c4610166b3
+      internalID: 5531032041691831354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_57
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884b20c6637d96c4c8afd91b5480831c
+      internalID: -1683557356272337800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59e9a9c9c5378f44abc8dc97c02140d
+      internalID: 814737350535761980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_59
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850c40f0ac198114596a7c7cafbb4562
+      internalID: -3556247746052992230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_60
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0c6369ad197d646aaaad85686998a0
+      internalID: 383306823709567434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_61
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713cb5324ca48d44a951c737792c04f1
+      internalID: 5144251818168279373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_62
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c884690fe1fcc724cbcfe0c3e865c5b4
+      internalID: 4873376030611053798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_63
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef6a5ea6d1ccc142a2fe47fb01b5d48
+      internalID: 2178985664546518414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_64
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d83e8b0b6bdd24680ab9d128fd68ee
+      internalID: 3078971173333954383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_65
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8b8555a3d043b47aa51473581e69cc
+      internalID: 3026409051019984054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_66
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f757f81d8ed7e4e94fcdffc2811d46
+      internalID: -5215589433725079383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_67
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b062a26fa40ba746a17cf861903b0a8
+      internalID: 2520470946797468999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_68
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3092b0f2cda282244b396f1af97b5dc3
+      internalID: 4961134087466971465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_69
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac99da553d48524bae9acb8fab73b7b
+      internalID: -7933379034080628253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_70
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298573aa677e32b43ba651c16686ab24
+      internalID: 4737059402787362349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_71
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5df5b5046a62b41a25ad70f6182c23
+      internalID: -1680509241871469134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_72
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa87fa6fd6fd768479e6103a983f7810
+      internalID: -786251374408082390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_73
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941392ebe8504374da775d8795fc5fff
+      internalID: -8211546337363811445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_74
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4d069d62e2a6640b292ce41043f697
+      internalID: 6695579814906588571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275d9cbf1cecc8a4cbb3c5789fbaf126
+      internalID: 374161897504690827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7d07d7dd366054490f7fee699c4882
+      internalID: -7763566430114490655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_77
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a946c90ae18e1149a51e443b19fc381
+      internalID: 2037352379696473359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c6207b387475d4fb3c645eaf8e73eb
+      internalID: 3017094704782802796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f45881c1d05d8c41b72cd99e4ae964e
+      internalID: -3279290134131502769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1827c0e5c74cc76488db954385077256
+      internalID: 4485161519752175484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_81
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a126588f229ff3946a4f23c66bdada49
+      internalID: -2638235676624262844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_82
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c90f0af3a8dfa9418a87a3b845b632c
+      internalID: -2318221044105967332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_83
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e93dd006363bd419a14082ad76c3fc
+      internalID: 1001166400287207457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_84
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20202053db5dd0943a173f183d342749
+      internalID: 2559609122104916106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_85
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f0f6c72fd734346a17be237258362b
+      internalID: -5443734909398920824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_86
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d13d112b1f74024fa46769c9f148809
+      internalID: 850817243435778248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_87
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476c842fb09cea44da9f8b1ce51288e2
+      internalID: 571808977727751994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_88
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f418aaa051b7b274abaeaa50735e9de0
+      internalID: -8886726859684134914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_89
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38929245546a8094b828b7c591858ed4
+      internalID: 1872850980555164394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_90
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f5feef1a71bff4890a9806e2b16f88
+      internalID: 7945690971098070478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_91
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0b2deeb873d244c888dc9dc566c741
+      internalID: -1577120191178359898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_92
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97332415462d2a14d95a018aace526ad
+      internalID: -8146920359216790220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_93
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f21963c72231524d88a8c9cbc91dd95
+      internalID: -3932042428055348096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_94
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402b73fb95529fc4a8c25a9cf51e6777
+      internalID: 8180860509110681280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_95
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 846
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1e26c23b709394f93c4b7214b67f0c
+      internalID: -6045673471522332551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 782
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9036539548035c741a79b67fa9888aae
+      internalID: 3776405272722811440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 782
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99316ae787f6bd64ca13df63dee1bd8d
+      internalID: -6747749699339805270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 782
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af64b9d66c59594ea98c02db1e7dede
+      internalID: -8746334058970687529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_99
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 782
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086eca9db98604a4e8c944e4f492bf85
+      internalID: 8382708648550733315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_100
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 782
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a4fab9a60b2094a93f38da3c8aaef2
+      internalID: -2110007299536161599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_101
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 782
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a1019ac76de754c88fb5ce81afc310
+      internalID: -9186118190544887038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_102
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 782
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bed9fdb57ce73147954e1f5374d70bf
+      internalID: -586052182077042664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_103
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 782
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a980d59b9909eb4886e8a35b547c402
+      internalID: 6961326607029614529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_104
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 782
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b867e07e37fed75449318781529c7ef2
+      internalID: 2999856755797404141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_105
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 782
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff627fdb02cce7448b0f97fe48bdf65
+      internalID: -7553528686136490851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_106
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 782
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ad6c8bdb3019943b1f59c46f291e9b
+      internalID: 5272865181351893301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_107
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 782
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3365c4e26dba740498986608e3ef5248
+      internalID: -4645154754531672165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879eb1a4e2be02742bf30ad0980829b9
+      internalID: 6218098303316901641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d86dfb2d20c33b4192c3fad732ece07
+      internalID: 2564428429295804392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_110
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1214f76fddca4458a24f2846343fe7
+      internalID: 8990859680616015455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_111
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09d3a5e2225efb4fbf63d79a46d0158
+      internalID: -1655129146291542669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_112
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9ceec44fb2ce04aac9af225c6c5d9d
+      internalID: -6893087934902772053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_113
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e12c1b3565d25046a055f34c2dc90f9
+      internalID: -7932305886501207254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_114
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14090c5590363bf42acb1c9ed513bb09
+      internalID: 3163784499838614452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_115
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f0262c983578746b7df7714a31445e
+      internalID: 6453249637185602056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_116
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399dda903bac4884ba85b6ce9012c860
+      internalID: -8912942616507004518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_117
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdda9773cb6dc0d4a890cdf6a12a806b
+      internalID: -8304009220962893458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_118
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c49afb325dec4845828bdc92276bfe0
+      internalID: 1375133560870689077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_119
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996f6f441f3018b429e0728775b764bf
+      internalID: 725619119443449485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_120
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbd34040e9e17e43ae20fc91717e0be
+      internalID: -1653623929867030102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_121
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73f290073d219a418cf7567ce56a610
+      internalID: -1507861910936687006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_122
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2f67b257e3efa4a8242ac73daedb7b
+      internalID: 3985845499222161960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_123
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfc54c89a2b0c647b036879a2dc3660
+      internalID: 5316004596214827534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_124
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9458970f4d8f4164e9e4deffe02715c0
+      internalID: -6367674168708501699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_125
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4984ad16cea6d2f469fd3440d73f09cd
+      internalID: -9075858749884500327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_126
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 718
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca868b1a58d6c4b478850c424b4d3877
+      internalID: 5587773573672092283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05181bc225631fd41b410b21bbf4bd83
+      internalID: -2286552776475552504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bfbc81f4569534b8b98bd05ca7f929
+      internalID: -5382862327799785091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_129
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d2bbf3aeb820e45a3d96959ec23eec
+      internalID: -6017815236266040428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_130
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a55209540050e45ac0442d392306d8
+      internalID: 1606053134761317443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_131
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a7530132552af46b18217fae27f6a4
+      internalID: 2008943823048493415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5a70c879db4954d960a3d9ebb8083f
+      internalID: 1816665660293984753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_133
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eae2036aa8a28458970d39071c1acf
+      internalID: -2689629894373949517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_134
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f64b76a61d56a54086aa7e378a49f9d
+      internalID: -5730825747530057018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_135
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bed0c72008d3d47b23eece69e38264
+      internalID: 4030620830663007472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_136
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fff3dc9eee09841876ed91de6e4802
+      internalID: 3218908756572629770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_137
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5349e98f186308048984a0f337854f8e
+      internalID: -4222624854198661917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_138
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92786430f5f1d214da88cbecdb8c467d
+      internalID: 2201006056807113043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_139
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae07d5bb70a9d7444b11707bf0ae4861
+      internalID: -3078085671395819414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_140
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e114f4f44693a42872b59e5c07299a
+      internalID: -1217532611058642965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_141
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96095a57b2d499448139a31bc07f8a9
+      internalID: -8319133838851982635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_142
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1a5ff06e025aa49bf34ebe2be10fc6
+      internalID: 3331872134570401087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_143
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475f700bdb4f3e54ab6f4ec9a497dcbf
+      internalID: -2855946271444163459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_144
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33e345b0eb5736499fa6c501358cbf7
+      internalID: 1535152645609712009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_145
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7cdfc22789ac34dbd1f0f87e18c01c
+      internalID: 7091909434202095779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_146
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec35626be50452e4a91b8cd1280b8a73
+      internalID: 6209131837723400237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_147
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1504380e05967f409dc3e76318a88de
+      internalID: 7388548095016654004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_148
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd02c54066b90a4aac6f5c9619eb2a0
+      internalID: -8244511305794024225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_149
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2437877026f3c246a3373e6d2cf9dfd
+      internalID: 1365845664184594725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_150
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b9f5587dea86f4280d19b7c114bc47
+      internalID: 3482319625381762040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_151
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d99eb4ae6ec5842ac0587187355818
+      internalID: 2369008943939908514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_152
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 654
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c67cf7336d9530479bc947388f9de94
+      internalID: 8963844034720349199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de095825583f7345af36da1a3c53475
+      internalID: -7616778574900653199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_154
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5994c0cccdd037f42af81b86b8fe0303
+      internalID: -7369594755384225369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_155
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019b038a771c7f34ebf007ae1a436677
+      internalID: -678685549599391121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ca83747013ef1458d980360f754850
+      internalID: -8823293836574190772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_157
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0ade1da5018e1459df0cc4776bcb58
+      internalID: -7071030381111336341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_158
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2264951c66acd7438ababeebae553ee
+      internalID: -497640725560753353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_159
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4c6684eb9358142b08c1d6f76d102f
+      internalID: -5681694732479630870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_160
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fc969199ae5394ab3077d0cbf91457
+      internalID: -5239424113120943050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_161
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c67c2564264a745a1ed50fdef2f349
+      internalID: -8584004123695409518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_162
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e64156317d201a45b4c32cee4fd82e6
+      internalID: -8806059680952768045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_163
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3da4f1670b535046999c8783b7dd9ea
+      internalID: -738337280954064258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_164
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d1e6267f6cfe445a075d044fcdfef8
+      internalID: 7237216080099626737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_165
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb4e858e42d83a4abc7c29eadc0584c
+      internalID: 8930813232141083467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_166
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21403980bc7fa98468b37e8445563c04
+      internalID: -6868738820911279996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_167
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e48860c06a7f654a97b38d86701d92b
+      internalID: 646115500523151024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_168
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0791bd7ed20e9449da8fe58e4a9c2d
+      internalID: -457858429939329370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_169
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0454480d83eb25c4b8b2e71de0be6305
+      internalID: -4546168104807662858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_170
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d1217960580c54497c5185585d8f1c
+      internalID: -8556079028199234730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_171
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e8f84e7bd8dcd4783d5da30d0e9a4d
+      internalID: -5538378104605795642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_172
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77074924763ff8d49b4a7d82e60acd35
+      internalID: 1278303284697672081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_173
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd89aa8ce5658840bf3c7170e590f7a
+      internalID: -6067095518712396857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_174
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 590
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46474dad39f5e94382f61cd767e489c
+      internalID: -2772275860192187681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_175
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 526
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d2737052d07004eb94a27f16d95e4f
+      internalID: -5170765912395075259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_176
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 526
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb1d19a8ce0ffd4b980ba0054f68185
+      internalID: -590212940589284929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_177
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 526
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2570ae971113f044e8441affaacc615e
+      internalID: 7829196970545302342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_178
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 526
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f945de944d1fe4cbb10acdf939d534
+      internalID: 1036457269528041211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_179
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 526
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fa3f2cdb3babd40abec04ff7126d6e
+      internalID: -7049972653851599990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_180
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 526
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c84c346044562441bd75cdec8c006c2
+      internalID: -4410711651322382057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_181
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 526
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c160c7003907cc469720cbd7f92f7a0
+      internalID: -1305218718871544001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_182
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 526
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d29c06fbeddefb41bcf4d72bfa4e527
+      internalID: -7299428928724159817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_183
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 526
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b02b5f30a62e784783c1943d39644fd
+      internalID: -6267270076702117242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_184
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 526
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece78fd85a41e834f83b0a4ce4d01e7a
+      internalID: 5961487960169554680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_185
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 526
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8fdd0a3c816d343a1b323ff9b8d1b8
+      internalID: 8244098618765100850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_186
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 526
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25674ca4bcfd394498931b2afdfec10a
+      internalID: -164003905056391489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_187
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 526
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f842f2e1a7a57374aa431a5e626fb197
+      internalID: 8481707691486543529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_188
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 526
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff98c9bce10e224f8cafbd6db086c91
+      internalID: 2338415934208937837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_189
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 526
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad2517b2375e42458fbf714e12ddc27
+      internalID: -6331200609391442911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_190
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 526
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3b2043d2c038e41b27bf0bff081757
+      internalID: -4465040525710830626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_191
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 526
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9f150ff78e31c4ba4db15011249e20
+      internalID: -2239255742521182708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_192
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8cde304fee3fa47a0aa09c5a258b44
+      internalID: 3105602335185213562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_193
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec401f92d849468449f0dee49a7532c0
+      internalID: -3458047589379702464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_194
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3757023ab0e14894dbfce508100a89f2
+      internalID: -3425381970557146160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_195
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64782dc8119750f4b9a077742b6dea69
+      internalID: -3783510972392151201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_196
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f17009ed17780c4594b5005426319ed
+      internalID: -7891222434588444021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_197
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f587791a7d44341bdb4edcda0f5c56
+      internalID: 3043316407805218738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_198
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6971b619e4157549bfff816799676be
+      internalID: 828002068063363427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_199
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9ae1814ea787240a626f81af4402b5
+      internalID: -203036347149986266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_200
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925c7dda882a05e4f892cc0358d241af
+      internalID: -6994090277803396294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_201
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f7cae43efb78241829ef8a28b3af6d
+      internalID: -250513467508770927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_202
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65db2bd0f4cb85b43bf64adffc0bb89d
+      internalID: 1181303537123662310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_203
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45b1ef895933d44ea6de6172602ec15
+      internalID: -7983693229282034859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_204
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f08818f7a1851a4c93b1983bbffefa4
+      internalID: 7376316045464754913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_205
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6b88adb9372c34fb14de372b757acd
+      internalID: -5330792980793003438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_206
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecae1c8b70692394ca56fcf34842d5dc
+      internalID: 695103751747789731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_207
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5b002459205ee4b8430e57ebf0202b
+      internalID: 1273955791533557404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_208
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c79a67e43a2fa540b3009371f3a3737
+      internalID: -3730981501734459302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_209
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3010937ca84382d47be10e30777fa878
+      internalID: -6328277519736046317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_210
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d86da3b54944a745bd620b0c71376bf
+      internalID: -4104650863683554113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_211
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd05f17b987b2ea4fbde13ba7981d524
+      internalID: -2428466079827128452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_212
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99804c50255a54b46b8090f58c7892dd
+      internalID: -4402448481660454282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_213
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c291125795956484abffdc05a701eae0
+      internalID: -2821031113466023559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_214
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88346d463f6ba454c8e0f7b97cd4a46e
+      internalID: 6947396974238231457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_215
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a282ec920cb9847a672b7bc6056bbb
+      internalID: 4950950631479640430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_216
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1d02304e86a1c4aaca9f41ac7db89b
+      internalID: 4551440719019138735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_217
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48bae6de17d9114ba2d97c902001491
+      internalID: -1713713582123731037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_218
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a451127958bacb499e8c7267a42fe85
+      internalID: 6698630475843886154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_219
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f04a608e5189c4fb5f3db5ae358db0
+      internalID: 6173005531452215910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_220
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6098140fa7c2804b9b4c2a1eeb6828f
+      internalID: -8602698839659347739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_221
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7199352adf3e245941bd3bc4de3df3
+      internalID: -162836492927747739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_222
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a638da0d825ce94a8948090f48fe14d
+      internalID: 6901239836350876297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_223
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4890c0da41e53b4ea7a8e1af95f4277
+      internalID: 7953885194390915762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_224
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595c7bd6e31186840adde2ea8630adff
+      internalID: -8632580734995933566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_225
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd44e3ab6e67ed44f9e1f842aeaac628
+      internalID: -3725653426157749503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_226
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818e4887e93721847a7fef1de5d15477
+      internalID: 5166752677222890242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_227
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93cae037ca75d24d86c1c591b95be72
+      internalID: 5878827126914022285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_228
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb9c1dd004ae1245ba3316f037f2a4d
+      internalID: -6445850468623414220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_229
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c24c684b12eab948bf15be25a9c4967
+      internalID: 8369182639842786888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_230
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c48f9b1e2cdb394bb8da53b8c9aebf0
+      internalID: 2187381464594459037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_231
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62c4de8283d9374f89e77b3e2a34ece
+      internalID: -2011684266960726380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_232
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf16945d4838b0543908beefc0762853
+      internalID: -5889631542434257335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_233
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4435f36d48adfa14dbc1d5837af27a25
+      internalID: -4090123839748929669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_234
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e856e73e117c74bad3fac232c2e809
+      internalID: -630451675314386784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_235
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142a3772b7d33c84097858a898e4d83e
+      internalID: -5345956075662706145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_236
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3aa3650eb93b5d4da14d16129d846c2
+      internalID: -8387939727152098052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_237
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbed368497611bd49b161f0f42b2c0f1
+      internalID: 4985254270412274738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_238
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df9bc71fd5e9e742ae0f3286f5514d0
+      internalID: -4205063230153363320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_239
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 334
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a4a4ede1fa4684ba260c2192b917c1
+      internalID: -3149964059931616054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_240
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccf5cf153670674aa2b66d023f3e5bc
+      internalID: -3761259219615517862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_241
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e7400e302f33843bfde815a1d5025c
+      internalID: 1092740192413553305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_242
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2673c0d43f892a54db36ed5daaaa4472
+      internalID: -7873508067173854447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_243
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5825881637765a841b8b936787494e65
+      internalID: 339832265412437784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_244
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d42add1fc9c64a48a513e50c619e388
+      internalID: -492854664563271587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_245
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630b7d4c43146e84d980ab215999c3a9
+      internalID: 3639168941746125796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_246
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fafbba9b58b29b488d9157099d6f78b
+      internalID: -1540729190429744717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_247
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fe8b8a7d68ee240b0d6cf582d0ee02
+      internalID: -6693845962113801096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_248
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47fac196374eeb4eadd703442e44fc4
+      internalID: 736710391110155669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_249
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf369741a52fe743a441725ffbe3e54
+      internalID: 2081995020852417700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_250
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecf5296dec69ba4a9fb087b5a278724
+      internalID: -1274759192835438257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_251
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d782d19ae059144bacc1e83baae7f0c
+      internalID: 4931910501062075458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_252
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973d69769afde4c4aa40b07492180a1a
+      internalID: -1770284686251509963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_253
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9b39d0eab660e458d0dd5c98cc2c1a
+      internalID: -6293357892449060599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_254
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616c353588a601b4e9112d3c75ae9f64
+      internalID: -4184259200504208405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_255
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c98e135eeb0fd642871a5ece4d4cf7e
+      internalID: 449783642999820226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_256
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b71bbb4857d5b14e9c5dc6777922b10
+      internalID: 8983339295856515591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_257
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0c453a19b0b3747bedb2a119a497a8
+      internalID: -6012571993678509142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_258
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24980fa945f624c4db2d5d1cc4e2b22e
+      internalID: -1305072111147680756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_259
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7040648fe27cc4db9beb8a6894f029
+      internalID: -7388073362982360572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_260
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652f09d3ec66c1e4a9c426ec6791d9ef
+      internalID: -2399269728672618544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_261
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 270
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77d29bb40fd16b4e8557c5cb6a0c2a5
+      internalID: 2937750516763652475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_262
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2209b402ec9c3a4d8985bf2c7b8a98a
+      internalID: -6808339775048040111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_263
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909ef6b49b539f34fb305e5954b44600
+      internalID: 8620692881527034465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_264
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90718892ead280449ba61c395ef809d
+      internalID: -6753329827275734554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_265
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c772ba405fac4014a975b769c970e78d
+      internalID: -4032736889654231730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_266
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d08aaa1fe630c4582a7b65858adf87
+      internalID: 3058137257442530921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_267
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c9d86b7a1c9a54d90c3e8fa2c3be6b
+      internalID: 4585734407178330740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_268
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb26186564cb28d40bbff1be9fcbb564
+      internalID: 6454300722300588573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_269
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78d88b131c6d3b42a830018f01ea8ae
+      internalID: 1993575184391430812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_270
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdf86a960455ec499ad75804745c20d
+      internalID: 1411914868285749857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_271
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddf70f1f695d9341857d489f4cbdd35
+      internalID: -5425130061169165124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_272
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d95b8e11db4b364cbb4790ca8b12eac
+      internalID: -5021176160747110640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_273
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53162e429a24fe45b8dfe527f687875
+      internalID: -3181475136512473505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_274
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e04786f2618c0f428f0c9054ecb5ef0
+      internalID: -619319627648468069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_275
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f813850dd2d28441818109414edc1d6
+      internalID: 11180123247246019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_276
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff651e54c18b4b3489ee8a8abd93ce9f
+      internalID: -5933679358407288877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_277
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e25a069c78cbee41a0095574943059b
+      internalID: -2238236560962510013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_278
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71844bdd394bca043a07b0676e35d64b
+      internalID: -5313149816144453208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_279
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13af79a61b688d4baa70b1b7ffbb740
+      internalID: 8772847401753304114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_280
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148660491bb16e04dbb64b0701bb2a9d
+      internalID: -8191459518163635217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_281
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9913d86c5d6cf9647bd5d27469206679
+      internalID: 3682784173543951776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_282
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda6678ae682b3c4bae48f4d4be64b43
+      internalID: -7192682107882122477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReDesign Puzzle Assets_283
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 206
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dc4ed4d4f203e45a908d3563169adb
+      internalID: -2434925351755331987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 857d4cf7506c8c84488f7c2dfdfe4447
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
