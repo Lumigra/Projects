@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 8af6dabcba6918e44a7fee28ba832645
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1636749037167183693
+    second: Pawperty Sprite Fix Sheet_0
+  - first:
+      213: 8431560847108976261
+    second: Pawperty Sprite Fix Sheet_1
+  - first:
+      213: -7880717057302505503
+    second: Pawperty Sprite Fix Sheet_2
+  - first:
+      213: -6083533311917990718
+    second: Pawperty Sprite Fix Sheet_3
+  - first:
+      213: 7307471371787143586
+    second: Pawperty Sprite Fix Sheet_4
+  - first:
+      213: 4894402850587786738
+    second: Pawperty Sprite Fix Sheet_5
+  - first:
+      213: -1950019828568435060
+    second: Pawperty Sprite Fix Sheet_6
+  - first:
+      213: -4323864289708843890
+    second: Pawperty Sprite Fix Sheet_7
+  - first:
+      213: 2514886801286596484
+    second: Pawperty Sprite Fix Sheet_8
+  - first:
+      213: 6591982689974218924
+    second: Pawperty Sprite Fix Sheet_9
+  - first:
+      213: -5110166569337331484
+    second: Pawperty Sprite Fix Sheet_10
+  - first:
+      213: 976699253595500094
+    second: Pawperty Sprite Fix Sheet_11
+  - first:
+      213: 8461942336035800275
+    second: Pawperty Sprite Fix Sheet_12
+  - first:
+      213: -7130910423177060614
+    second: Pawperty Sprite Fix Sheet_13
+  - first:
+      213: -4830525094246142363
+    second: Pawperty Sprite Fix Sheet_14
+  - first:
+      213: 2704731959729424103
+    second: Pawperty Sprite Fix Sheet_15
+  - first:
+      213: -4896723084288863456
+    second: Pawperty Sprite Fix Sheet_16
+  - first:
+      213: 3753357104895505920
+    second: Pawperty Sprite Fix Sheet_17
+  - first:
+      213: 8636230787934697153
+    second: Pawperty Sprite Fix Sheet_18
+  - first:
+      213: 7744649835440776588
+    second: Pawperty Sprite Fix Sheet_19
+  - first:
+      213: 1377663898903400682
+    second: Pawperty Sprite Fix Sheet_20
+  - first:
+      213: 4831005717895206389
+    second: Pawperty Sprite Fix Sheet_21
+  - first:
+      213: -4517053088607757829
+    second: Pawperty Sprite Fix Sheet_22
+  - first:
+      213: 6771333113679895560
+    second: Pawperty Sprite Fix Sheet_23
+  - first:
+      213: -727899319397253074
+    second: Pawperty Sprite Fix Sheet_24
+  - first:
+      213: 5074813254531063799
+    second: Pawperty Sprite Fix Sheet_25
+  - first:
+      213: -207372809378979533
+    second: Pawperty Sprite Fix Sheet_26
+  - first:
+      213: 914585234705814546
+    second: Pawperty Sprite Fix Sheet_27
+  - first:
+      213: 4095898288672808057
+    second: Pawperty Sprite Fix Sheet_28
+  - first:
+      213: -7576650971343331512
+    second: Pawperty Sprite Fix Sheet_29
+  - first:
+      213: 3229401308560363558
+    second: Pawperty Sprite Fix Sheet_30
+  - first:
+      213: -2574771569121298313
+    second: Pawperty Sprite Fix Sheet_31
+  - first:
+      213: -6739492927633780522
+    second: Pawperty Sprite Fix Sheet_32
+  - first:
+      213: -1468034917052467837
+    second: Pawperty Sprite Fix Sheet_33
+  - first:
+      213: 5786232272837318951
+    second: Pawperty Sprite Fix Sheet_34
+  - first:
+      213: 4426248565561711037
+    second: Pawperty Sprite Fix Sheet_35
+  - first:
+      213: -8970148725764630105
+    second: Pawperty Sprite Fix Sheet_36
+  - first:
+      213: -1456454715516127018
+    second: Pawperty Sprite Fix Sheet_37
+  - first:
+      213: -3243963770212692709
+    second: Pawperty Sprite Fix Sheet_38
+  - first:
+      213: -971932509114877760
+    second: Pawperty Sprite Fix Sheet_39
+  - first:
+      213: 4571283171208661531
+    second: Pawperty Sprite Fix Sheet_40
+  - first:
+      213: -7502677008300236152
+    second: Pawperty Sprite Fix Sheet_41
+  - first:
+      213: 5923643541500807118
+    second: Pawperty Sprite Fix Sheet_42
+  - first:
+      213: -7116753863705104414
+    second: Pawperty Sprite Fix Sheet_43
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceaf1ae99a61984388e3b1c203ec817
+      internalID: 1636749037167183693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 461
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442bedafb27553048b7d6dbd9fe04ea4
+      internalID: 8431560847108976261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 477
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8139ea06b78a1149b83b218569b33fc
+      internalID: -7880717057302505503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 468
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceade24cfc5d3347a0a3dd258d4e758
+      internalID: -6083533311917990718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 415
+        width: 42
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f144890b3d1f942bc9cd54373125ce
+      internalID: 7307471371787143586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 416
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c317ce1d159d6834e8158c2236aed3f3
+      internalID: 4894402850587786738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 417
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531b495ca49b98c43b95b6ed59b9b6d0
+      internalID: -1950019828568435060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 417
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64726e9999cbf5f47974efcf83ea17c7
+      internalID: -4323864289708843890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 443
+        width: 93
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0f7cc5f1fa30c4f9561104da9516e9
+      internalID: 2514886801286596484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 413
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c88be4345827c4fb457fbd147cdd93
+      internalID: 6591982689974218924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 467
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766383d411535b54f9e209c93f230fe8
+      internalID: -5110166569337331484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 462
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bec05b4b627504c8816d8a297ba259
+      internalID: 976699253595500094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 465
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d32377f0e7ea0f4a8737e127f3b5abb
+      internalID: 8461942336035800275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 461
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5414bce356c84f4686d9584314c5d35
+      internalID: -7130910423177060614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 452
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8576777ba57e6946a63ad5723fb1625
+      internalID: -4830525094246142363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 446
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f3e1b0e735fe34098c97e78a959ee0
+      internalID: 2704731959729424103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 450
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bf1ac88c768264083ebedccd13d53c
+      internalID: -4896723084288863456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 448
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df5479df43157745872d7cb46b1be27
+      internalID: 3753357104895505920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fa617c063aefb48958ab73a9885fb1
+      internalID: 8636230787934697153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 365
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc2f05f722c4034ca7e6538502f571d
+      internalID: 7744649835440776588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 354
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d387f4532190584da1a610b10450d90
+      internalID: 1377663898903400682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 363
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b464885ad12524b8d0b1864b123214
+      internalID: 4831005717895206389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 363
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5c8aa35295d364285e4178c5024398
+      internalID: -4517053088607757829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 289
+        width: 128
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada7cda901c14e94ea02a3dd0f14770d
+      internalID: 6771333113679895560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 342
+        width: 99
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec75168ad503a54cbd20c7eb97cf3c1
+      internalID: -727899319397253074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 343
+        width: 100
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce22f20560dd6f24b87181b0d15e115c
+      internalID: 5074813254531063799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 282
+        width: 33
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0459eb444c07604e8abccad46937f19
+      internalID: -207372809378979533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 279
+        width: 44
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc0eeed9a2a5f445b7ae7440c9240d7
+      internalID: 914585234705814546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 348
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b6a5f250a7a48488d5cd8037a7b1da
+      internalID: 4095898288672808057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 284
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40841c5bee072f1489f223cd5ec9be9d
+      internalID: -7576650971343331512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 293
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb495166cd554b442844369ed7398896
+      internalID: 3229401308560363558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 285
+        width: 109
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28db1986a4367c644a787625a1129e4d
+      internalID: -2574771569121298313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 288
+        width: 81
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397fe7420c9d47e4995c56a97522c744
+      internalID: -6739492927633780522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 300
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473b1e32b6530ee4ab48b5896ea8af34
+      internalID: -1468034917052467837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c107acaa87090642ab2fb57ae5eebc1
+      internalID: 5786232272837318951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 254
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841135257664eb64cbf998a839047195
+      internalID: 4426248565561711037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 184
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88db8a3c2cd367e478ce8885125a6712
+      internalID: -8970148725764630105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 97
+        width: 66
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e585d72313ddd0f458ff82273ff4563d
+      internalID: -1456454715516127018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 97
+        width: 66
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcec174937c6e94dbced6bfc64cb6fc
+      internalID: -3243963770212692709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 234
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a4e79cd435f3449bacc2e8b92dc1d4
+      internalID: -971932509114877760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 233
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46f317c08fcff7409adc5790ad1411b
+      internalID: 4571283171208661531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 220
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9096c702625bae6419c1238506b6752f
+      internalID: -7502677008300236152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 219
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9d3b016118e924d97e290471fe841a
+      internalID: 5923643541500807118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pawperty Sprite Fix Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 89
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75daba4d73633e648b2e662779dd75a5
+      internalID: -7116753863705104414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
